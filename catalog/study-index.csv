@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ifk01,Red Pocket,pack-local equal-tempered pitch collection,C,110,4/4,480,32,61440,midi/ifk01-red-pocket/ifk01-red-pocket-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ifk02,Green Keys,pack-local equal-tempered pitch collection,D#,110,4/4,480,32,61440,midi/ifk02-green-keys/ifk02-green-keys-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ifk03,Loose Corner,pack-local equal-tempered pitch collection,F#,110,4/4,480,32,61440,midi/ifk03-loose-corner/ifk03-loose-corner-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ifk04,Yellow Turn,pack-local equal-tempered pitch collection,C#,110,4/4,480,32,61440,midi/ifk04-yellow-turn/ifk04-yellow-turn-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
