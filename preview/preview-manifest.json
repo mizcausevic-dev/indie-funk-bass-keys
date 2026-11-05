@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/indie-funk-bass-keys-simple-synth-preview.mp3",
-  "preview_sha256": "043e44312a3d3007e5555d8df3b8ab7b906fc7d628aa3967f5c9d67643a586c2",
+  "preview_sha256": "102b4f405648a4f51376c5e69f75f780b88c64cc9bb552358005f7ccf316662a",
   "source_midi_path": "midi/ifk01-red-pocket/ifk01-red-pocket-combined.mid",
-  "source_midi_sha256": "d686361ae86f698651ce4221a0cd5872c5f6e3d62f6df126bad2b8dbc41ea548",
+  "source_midi_sha256": "5da73db26c49cb777cc1f0da236087bb5ede8ba8e41b6502eee502db72bdd553",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,

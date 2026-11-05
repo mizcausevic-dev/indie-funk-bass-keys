@@ -33,8 +33,8 @@
     },
     {
       "path": "art/raster-provenance.json",
-      "bytes": 500,
-      "sha256": "21b139f438dd28f337c9ef694bc923b4c6d896fc1c8785ec923b501e27ac8f1b"
+      "bytes": 408,
+      "sha256": "ebad2bd0b70f48d2791b1b4285164a807c700008338e054e3d61dec9f31db7fc"
     },
     {
       "path": "art/square.jpg",
@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 108988,
-      "sha256": "97e65116981f40ffa7849967f9d1ae9f716e1f5199eefc96851f40b886b37026"
+      "bytes": 107887,
+      "sha256": "0d0559feda4966ddcd6b0b64d47b6ebf3ab0611ac0608edb6426680ca82544b4"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 379,
-      "sha256": "179ee5367c758c8ecdf5c64854e3bf72b3185197f02a822d28782095e780b58a"
+      "sha256": "8023bbddaf51a5fccfc7ba022d940457f19d8a84c7692c742bc915ac8b3ce311"
     },
     {
       "path": "checks/clip-validation.json",
@@ -109,7 +109,7 @@
     {
       "path": "checks/media-validation.json",
       "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "sha256": "a38ce5abc6328741f322e9c64cb0b692f1877c6c69b6811e7a77f4d662e7a018"
     },
     {
       "path": "clips/ifk01-bass-hook-01.mid",
@@ -278,13 +278,13 @@
     },
     {
       "path": "downloads/indie-funk-bass-keys-midi.zip",
-      "bytes": 35938,
-      "sha256": "2aa028b6f0a1416599563cc48b8e11788714c753f7b52135252767852c424d9f"
+      "bytes": 37215,
+      "sha256": "9939467da78dfd32683e38158b063b248d29dce332d930c16152d0ab69bb9319"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2779,
-      "sha256": "b08f9851d86547753439b3e4e8140efd49eecec4b27301adf64e5488ec6a3157"
+      "bytes": 2835,
+      "sha256": "814d10d9942b0124ed36334565940265d33923df041d0281c28b8319babda616"
     },
     {
       "path": "film/motion-overlay.png",
@@ -298,8 +298,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 1068185,
-      "sha256": "f1966a9dfee17079e21278bd2ee8ea733188614f93c26bc4b4a37b572e341964"
+      "bytes": 1061625,
+      "sha256": "a6b0db74f99da25221e0ff0a4ebb0694824bf01e515827ff533b7157a03a5982"
     },
     {
       "path": "film/preview.vtt",
@@ -308,13 +308,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1182,
-      "sha256": "2ba1005fb0ec16dec5090bf8ea4f6218b801331f64c22667e93304088b06b39f"
+      "bytes": 1208,
+      "sha256": "aa8fb497a14598bf361716a07bdf16db39bc2b6072ba20962579f6b1b4aabd4a"
     },
     {
       "path": "index.html",
-      "bytes": 9563,
-      "sha256": "f9b44a2df117183f811ba6dfb67c0c29b7d1d5f3ca01ed02e7231a793f4f3efd"
+      "bytes": 10599,
+      "sha256": "1bc8dae70e2664884b4ed91e8b07397eb9309b5a96f8ed6f6c177e08a23378ca"
     },
     {
       "path": "midi/ifk01-red-pocket/chord_pulse.mid",
@@ -333,13 +333,13 @@
     },
     {
       "path": "midi/ifk01-red-pocket/ifk01-red-pocket-combined.mid",
-      "bytes": 6569,
-      "sha256": "d686361ae86f698651ce4221a0cd5872c5f6e3d62f6df126bad2b8dbc41ea548"
+      "bytes": 6498,
+      "sha256": "5da73db26c49cb777cc1f0da236087bb5ede8ba8e41b6502eee502db72bdd553"
     },
     {
       "path": "midi/ifk01-red-pocket/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "d9e9d755c9bd59bfa259e85b1217b9277531db8aa8479c2860ebe04592e2727f"
+      "bytes": 660,
+      "sha256": "db3bb01046a98f775b2e5c75b5d1a0b904fb78355fbf39a0cb3c1cdcc060de8b"
     },
     {
       "path": "midi/ifk01-red-pocket/sub_bass.mid",
@@ -368,13 +368,13 @@
     },
     {
       "path": "midi/ifk02-green-keys/ifk02-green-keys-combined.mid",
-      "bytes": 6569,
-      "sha256": "88c18ab1ec546a53eaf129f7982247f3c70f5cae0372a500f615fa0ee98f65b7"
+      "bytes": 6498,
+      "sha256": "756468f6da4f176b2d417fcfe2abca1ffa15c7ffd9b367e52dad791f9399363e"
     },
     {
       "path": "midi/ifk02-green-keys/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "7952a898e9bc3e6c0d5bbf3e58c2a1dc16115259630b926ee41816bbd67710ea"
+      "bytes": 660,
+      "sha256": "ba27c98d777ad30c4c64ec1ec579d7cbd0e2bd6d1776d729a45dccb25832b946"
     },
     {
       "path": "midi/ifk02-green-keys/sub_bass.mid",
@@ -403,13 +403,13 @@
     },
     {
       "path": "midi/ifk03-loose-corner/ifk03-loose-corner-combined.mid",
-      "bytes": 6549,
-      "sha256": "f6435bd4dc8b3a7e98d49aa326b29ac26e315b5b5c44c4f6ee2166157b2e06a4"
+      "bytes": 6459,
+      "sha256": "d03846ee7de680eafb634593c31a2d65b59a3d4f1d9d3066477ad824fc38bc54"
     },
     {
       "path": "midi/ifk03-loose-corner/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "50890156ee743cf8c06da2bf04ec0b3a8274356efc0d4d6d1d4ec764185379eb"
+      "bytes": 621,
+      "sha256": "d28968667f5463cec811c92d5d36625d7580ca42df7d9897c46b5c84c2f4ffc4"
     },
     {
       "path": "midi/ifk03-loose-corner/sub_bass.mid",
@@ -438,13 +438,13 @@
     },
     {
       "path": "midi/ifk04-yellow-turn/ifk04-yellow-turn-combined.mid",
-      "bytes": 6549,
-      "sha256": "c512ae04b213dfc9c39dd1eaf0bc7d46219daa94c2d28bc605b38ef0ffc1b1f7"
+      "bytes": 6460,
+      "sha256": "0c53c3821e452aebe51bdbffcf6dd2464fec043693b27623389e22310dea2194"
     },
     {
       "path": "midi/ifk04-yellow-turn/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "a2c18c988b8a08766879eb8d9307500674c667fa45098d7f792e4905b6be5a28"
+      "bytes": 622,
+      "sha256": "dee4aba0ffa76f939a367c7b4d167ca3394c3d1df4418ab48134a69c98dfc656"
     },
     {
       "path": "midi/ifk04-yellow-turn/sub_bass.mid",
@@ -459,17 +459,22 @@
     {
       "path": "preview/indie-funk-bass-keys-simple-synth-preview.mp3",
       "bytes": 1689017,
-      "sha256": "043e44312a3d3007e5555d8df3b8ab7b906fc7d628aa3967f5c9d67643a586c2"
+      "sha256": "102b4f405648a4f51376c5e69f75f780b88c64cc9bb552358005f7ccf316662a"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1134,
-      "sha256": "6ec758b6c461288197a35ebbd7373a650d68ab79b1c9fbdb3c586c60d8e04b10"
+      "sha256": "a5d9fa3501703e8681df4f7566ba782273fd8f51d33fec466e79f816e98ef6ab"
     },
     {
       "path": "README.md",
-      "bytes": 3896,
-      "sha256": "c24cc6351f2c763a97fd3b646d98fcc91496ff4bba2842a47e926053e5a36995"
+      "bytes": 4114,
+      "sha256": "2abaae097a6a4d9c5c906f7afd5d7ebbf204aa14b63b74767915330a2b5b0c2c"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 789,
+      "sha256": "6ca316aa42ac08fda8f7461b9d3d8b931ddcc17d7e741da10bf4467952da09dd"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -503,8 +508,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 92945,
-      "sha256": "b6fe07de5d1fcb16095dff6dd4ec0d466e77a103800f3e9e71e9902198c6ae87"
+      "bytes": 93382,
+      "sha256": "037efa5f6f793e441c4cedd750d04db289cca34f9e354f4b6c1862d42ccf1bd0"
     },
     {
       "path": "tools/polish_release.py",

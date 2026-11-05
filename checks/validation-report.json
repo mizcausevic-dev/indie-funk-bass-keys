@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T14:29:00.542892+00:00",
+  "run_time_utc": "2026-11-05T22:44:23.081073+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/ifk01-red-pocket/ifk01-red-pocket-combined.mid",
-      "bytes": 6569,
-      "sha256": "d686361ae86f698651ce4221a0cd5872c5f6e3d62f6df126bad2b8dbc41ea548",
+      "bytes": 6498,
+      "sha256": "5da73db26c49cb777cc1f0da236087bb5ede8ba8e41b6502eee502db72bdd553",
       "errors": []
     },
     {
       "path": "midi/ifk01-red-pocket/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "d9e9d755c9bd59bfa259e85b1217b9277531db8aa8479c2860ebe04592e2727f",
+      "bytes": 660,
+      "sha256": "db3bb01046a98f775b2e5c75b5d1a0b904fb78355fbf39a0cb3c1cdcc060de8b",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/ifk02-green-keys/ifk02-green-keys-combined.mid",
-      "bytes": 6569,
-      "sha256": "88c18ab1ec546a53eaf129f7982247f3c70f5cae0372a500f615fa0ee98f65b7",
+      "bytes": 6498,
+      "sha256": "756468f6da4f176b2d417fcfe2abca1ffa15c7ffd9b367e52dad791f9399363e",
       "errors": []
     },
     {
       "path": "midi/ifk02-green-keys/principal_motif.mid",
-      "bytes": 731,
-      "sha256": "7952a898e9bc3e6c0d5bbf3e58c2a1dc16115259630b926ee41816bbd67710ea",
+      "bytes": 660,
+      "sha256": "ba27c98d777ad30c4c64ec1ec579d7cbd0e2bd6d1776d729a45dccb25832b946",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/ifk03-loose-corner/ifk03-loose-corner-combined.mid",
-      "bytes": 6549,
-      "sha256": "f6435bd4dc8b3a7e98d49aa326b29ac26e315b5b5c44c4f6ee2166157b2e06a4",
+      "bytes": 6459,
+      "sha256": "d03846ee7de680eafb634593c31a2d65b59a3d4f1d9d3066477ad824fc38bc54",
       "errors": []
     },
     {
       "path": "midi/ifk03-loose-corner/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "50890156ee743cf8c06da2bf04ec0b3a8274356efc0d4d6d1d4ec764185379eb",
+      "bytes": 621,
+      "sha256": "d28968667f5463cec811c92d5d36625d7580ca42df7d9897c46b5c84c2f4ffc4",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/ifk04-yellow-turn/ifk04-yellow-turn-combined.mid",
-      "bytes": 6549,
-      "sha256": "c512ae04b213dfc9c39dd1eaf0bc7d46219daa94c2d28bc605b38ef0ffc1b1f7",
+      "bytes": 6460,
+      "sha256": "0c53c3821e452aebe51bdbffcf6dd2464fec043693b27623389e22310dea2194",
       "errors": []
     },
     {
       "path": "midi/ifk04-yellow-turn/principal_motif.mid",
-      "bytes": 711,
-      "sha256": "a2c18c988b8a08766879eb8d9307500674c667fa45098d7f792e4905b6be5a28",
+      "bytes": 622,
+      "sha256": "dee4aba0ffa76f939a367c7b4d167ca3394c3d1df4418ab48134a69c98dfc656",
       "errors": []
     },
     {
