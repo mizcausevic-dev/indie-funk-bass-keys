@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 4108,
-      "sha256": "54d3501b1042ede617789537be0c31ea2aff521fc6ae6ee57b49b66bbd608f18"
+      "sha256": "81278020d04833469cd62ad8693a9b417bd2a28cb6e35c5ef948057314df9172"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -113,23 +113,23 @@
     },
     {
       "path": "clips/ifk01-bass-hook-01.mid",
-      "bytes": 223,
-      "sha256": "d627d2e009b54624a3ad0bbac213e8ac255de27acfb276fa6e961dbc35312e9f"
+      "bytes": 208,
+      "sha256": "0498e95e738cabd246348872e9423d7441b1c49c9741ddbdc45d994e59ca3017"
     },
     {
       "path": "clips/ifk01-bass-hook-02.mid",
-      "bytes": 223,
-      "sha256": "51a829a81aae92a65e015d3c5b12212048d84793298ef41df92a647a4008d97c"
+      "bytes": 209,
+      "sha256": "3bb1d3e5d5078823f53974e762e45f964865f0ac031316a79d9840b2dab8d983"
     },
     {
       "path": "clips/ifk01-bass-hook-03.mid",
-      "bytes": 223,
-      "sha256": "bf992ec55ae0472b96d06d203538c3c5b4a9dd85599ffe851c65a3538145ea77"
+      "bytes": 208,
+      "sha256": "3190a48387fd0f9f5927448e5707ba1985100ea499b7745d2cfa3cf97b4914e7"
     },
     {
       "path": "clips/ifk01-bass-hook-04.mid",
-      "bytes": 223,
-      "sha256": "12659f2f6c09fa58d16ffabfe53c5041829076fc1fe51ea64d5cfb83d3363766"
+      "bytes": 209,
+      "sha256": "974460f68af3ac2fec7c2e350912f3e33a5940db367d7432648ae88324e8ffef"
     },
     {
       "path": "clips/ifk01-chord-progression-01.mid",
@@ -153,23 +153,23 @@
     },
     {
       "path": "clips/ifk02-bass-hook-01.mid",
-      "bytes": 213,
-      "sha256": "515663d7eb149298a7b8ea2c19b8179f592a0ea06d849c1d8ca67ddb2bb75834"
+      "bytes": 208,
+      "sha256": "392b613c5ca8e8f31a1cc7c5343e09d5def4e97209bc0bb64a3b5be1dfbb91e8"
     },
     {
       "path": "clips/ifk02-bass-hook-02.mid",
-      "bytes": 213,
-      "sha256": "363d4172a385b1b9e10a9141af821cce4838839050673f2ad68331118888b9fe"
+      "bytes": 209,
+      "sha256": "a0ec7db08fc80e6f311460c360e0114a4cd00b2e9066bc2005595003ae078bf7"
     },
     {
       "path": "clips/ifk02-bass-hook-03.mid",
-      "bytes": 213,
-      "sha256": "08a00eddc165d7783001948a120abbe6df9c0fd64ae49ba4ddce73218b1bec0b"
+      "bytes": 208,
+      "sha256": "b91dca721f25ddc0205c65fa890ff31e0766719207e6d8f4dcb6c3e078936489"
     },
     {
       "path": "clips/ifk02-bass-hook-04.mid",
-      "bytes": 213,
-      "sha256": "608f624b3c5470a7ad2c9f975eeaf8d5c0fdc9bd90134dc2d0779ce7b78e039e"
+      "bytes": 209,
+      "sha256": "cd7c36e368177e09ae0e117a2132bdc14ea5aeabb1873fc29eae9d2b6cc6a4d8"
     },
     {
       "path": "clips/ifk02-chord-progression-01.mid",
@@ -193,23 +193,23 @@
     },
     {
       "path": "clips/ifk03-bass-hook-01.mid",
-      "bytes": 213,
-      "sha256": "b008b051ef512f82a2274c3645efa560463792ca2146fe8485f51b0f6abc6d12"
+      "bytes": 208,
+      "sha256": "5c95a9b962a526f6ca7ee237cfcda535f54fee8bb537d087f0664acbc1b9789b"
     },
     {
       "path": "clips/ifk03-bass-hook-02.mid",
-      "bytes": 213,
-      "sha256": "21430384f5824d81a0c8deab346b029b4d6a80e8984d3a0b9bcf49146d8a8e13"
+      "bytes": 209,
+      "sha256": "26ff6a8996b91104634ba29ed03f88a00648268106f2ea0c5d4c0b5a16a1927d"
     },
     {
       "path": "clips/ifk03-bass-hook-03.mid",
-      "bytes": 213,
-      "sha256": "70f4651f2fc7e650ded9b3f7e68799a161f7bb182d6ef18a72bcd02898cbf542"
+      "bytes": 208,
+      "sha256": "f53064d854025ef1256a17edaa9cae63a077413082423a7328b8cb59ca2c131b"
     },
     {
       "path": "clips/ifk03-bass-hook-04.mid",
-      "bytes": 213,
-      "sha256": "98a9d0e7f3e695d19a3e760d858ad47c727bc33bc1cd2b671ce20a1b40c56cd1"
+      "bytes": 209,
+      "sha256": "d575a6325f304ca839868a15d311a676cf453846c895b9e565d8b5681532872b"
     },
     {
       "path": "clips/ifk03-chord-progression-01.mid",
@@ -233,23 +233,23 @@
     },
     {
       "path": "clips/ifk04-bass-hook-01.mid",
-      "bytes": 213,
-      "sha256": "6758821abbe65e1ebd3d475735bcc94be5ec7f130e046977152a6be569fde66d"
+      "bytes": 208,
+      "sha256": "d7b3bca90651fca80cab7cc8e520d673bbe76fc07d896c66d9d6ad1d1a2dbef6"
     },
     {
       "path": "clips/ifk04-bass-hook-02.mid",
-      "bytes": 213,
-      "sha256": "2d2217f8bf1f74b5f4f9843599c1fc441e851322e3bc482a18bfebd46f22c01d"
+      "bytes": 209,
+      "sha256": "cd0d6b78667ff45fc5eafa1f83d7f7f3115f0f6c82ed0781837b600f4d721674"
     },
     {
       "path": "clips/ifk04-bass-hook-03.mid",
-      "bytes": 213,
-      "sha256": "793e996f4e3a57318a0c322da2545726b1433078040e3ba6f45be0f5006bcbdc"
+      "bytes": 208,
+      "sha256": "ad478422ccbd64bdae5e7506cc436d8ab1c61b0c0b6b3b5113fec515aa654db9"
     },
     {
       "path": "clips/ifk04-bass-hook-04.mid",
-      "bytes": 213,
-      "sha256": "40341f907d7fbb902ffa07fc86f43706490568879b6c245cdbd960735b2a71de"
+      "bytes": 209,
+      "sha256": "d816d9e9d10e6ef62d648528c822a706e7d904bb2a3cec17737b3ec9dbc9c855"
     },
     {
       "path": "clips/ifk04-chord-progression-01.mid",
@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/indie-funk-bass-keys-midi.zip",
-      "bytes": 37215,
-      "sha256": "9939467da78dfd32683e38158b063b248d29dce332d930c16152d0ab69bb9319"
+      "bytes": 39468,
+      "sha256": "c4900131018ae79626d99df2e2c3e3d7b43e494bc849257ffe8dc9216ebc46ad"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10599,
-      "sha256": "1bc8dae70e2664884b4ed91e8b07397eb9309b5a96f8ed6f6c177e08a23378ca"
+      "bytes": 10842,
+      "sha256": "3152495e9f3b7e7996b9ab5cbb34292e35398330a9e0bf91c979c4c7ef9ab381"
     },
     {
       "path": "midi/ifk01-red-pocket/chord_pulse.mid",
@@ -468,13 +468,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4114,
-      "sha256": "2abaae097a6a4d9c5c906f7afd5d7ebbf204aa14b63b74767915330a2b5b0c2c"
+      "bytes": 4273,
+      "sha256": "0e50cbf99ecb7a1b38b51ddd576d8fa1aa865e06df79969417f0f95a5fb0c0d2"
     },
     {
       "path": "REVISION.md",
-      "bytes": 789,
-      "sha256": "6ca316aa42ac08fda8f7461b9d3d8b931ddcc17d7e741da10bf4467952da09dd"
+      "bytes": 1101,
+      "sha256": "846ad9bfb593f1409fc827bed40a41fea6861c988f43ed6c0d706b6569e38808"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -518,8 +518,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 8917,
-      "sha256": "c37375b4defea7661a2106e7714c6249c55a1eb65de2924c63ef921cd0d6f306"
+      "bytes": 9698,
+      "sha256": "e6d0c413033696119d75dbdc5b8995844fc448adbb02c993f9bb72287e9dcbc7"
     },
     {
       "path": "tools/render_motion_preview.py",
