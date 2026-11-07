@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/indie-funk-bass-keys-midi.zip",
-      "bytes": 39468,
-      "sha256": "c4900131018ae79626d99df2e2c3e3d7b43e494bc849257ffe8dc9216ebc46ad"
+      "bytes": 40455,
+      "sha256": "01f5092e1776918f05276595ad52a213f9ffa0a78f660046caa7108617648244"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10842,
-      "sha256": "3152495e9f3b7e7996b9ab5cbb34292e35398330a9e0bf91c979c4c7ef9ab381"
+      "bytes": 11032,
+      "sha256": "d6a479103fcaac5387dfcd7a75d52970d02f4891c6d1f036cd3e50d425b0449c"
     },
     {
       "path": "midi/ifk01-red-pocket/chord_pulse.mid",
@@ -457,6 +457,11 @@
       "sha256": "fbfda4b457a71319fcbc979ed6b7863e92b41f3574f31e945cab98eba49f0371"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/indie-funk-bass-keys-simple-synth-preview.mp3",
       "bytes": 1689017,
       "sha256": "102b4f405648a4f51376c5e69f75f780b88c64cc9bb552358005f7ccf316662a"
@@ -468,8 +473,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4273,
-      "sha256": "0e50cbf99ecb7a1b38b51ddd576d8fa1aa865e06df79969417f0f95a5fb0c0d2"
+      "bytes": 4388,
+      "sha256": "feba2303d4db9c7bc3261a3281e52b4e595d65b5360d6a973489665476d587da"
     },
     {
       "path": "REVISION.md",
